@@ -41,7 +41,3 @@ End-to-end Computer Vision пайплайн для трекинга и подс�
 
 [Sample video](data/5.avi_yolo11m_tracked.mp4)
     
-
-## 👨‍💻 Автор
-**Maksim Goryachev**
-Full-Stack AI / ML Engineer
